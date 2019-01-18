@@ -1,5 +1,4 @@
 # Messaging-App
-# Price-Tracker
 
 #### Built using Node.js and Socket.io
 
